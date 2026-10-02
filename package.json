@@ -1,0 +1,15 @@
+{
+  "name": "op1bot-chart-scanner",
+  "version": "1.0.0",
+  "description": "ICT / SMC / AMD chart scanner powered by Google Gemini",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
